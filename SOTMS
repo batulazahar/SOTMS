@@ -1,0 +1,35 @@
+# Problem Statement
+
+## Who is affected?
+[Users, stakeholders, or businesses]
+
+## What exactly is going wrong?
+[The friction, error, or inefficiency]
+
+## Why does it matter?
+[The impact or cost of the problem]
+
+## Problem statement (3 to 5 sentences)
+[Combine your three answers above into one short paragraph.]
+
+# Requirements
+
+## Functional requirements (what the system must DO)
+1. The system shall ...
+2. The system shall ...
+3. The system shall ...
+4. The system shall ...
+5. The system shall 
+
+## Non-functional requirements (how the system must PERFORM)
+1. The system shall ... (include a number, for example "within 2 seconds")
+2. The system shall ...
+3. The system shall
+
+# User Stories
+
+Format: As a [type of user], I want [goal], so that [reason or benefit].
+
+1. As a ..., I want ..., so that ...
+2. As a ..., I want ..., so that ...
+3. As a ..., I want ..., so that ...
