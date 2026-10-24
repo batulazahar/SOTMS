@@ -8,18 +8,18 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | To do |
+| #1 | | assignment 1 done |
 | #2 | | To do |
 | #3 | | To do |
 
 ### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
+- Standup 1: I will finish all my assignments by today. Today is free day from class.
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+I already finish the system on web-based.
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+- What went well: system function well
+- What was difficult: to get all works done before deadline
+- What I will change next time: try to follow schedule probably, fix schedule if get any clash and makesure all works done before next weekdays started.
