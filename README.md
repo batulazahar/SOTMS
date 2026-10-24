@@ -1,42 +1,40 @@
-# Smart Online Tutoring Management System (SOTMS)
+# [Project Title]
 
-## Overview
+SOTMS helps students, tutors, and administrators manage online tutoring activities, including tutor selection, session booking, payments, notifications, and personalized learning support.
 
-SOTMS is a web-based system designed to help students, tutors, and administrators manage online tutoring activities, including tutor browsing, session booking, payment, online classes, and learning summaries.
+## Problem statement
+Students, tutors, and administrators need an efficient way to manage online tutoring activities. Coordinating tutor selection, session bookings, payments, notifications, and learning materials can be time-consuming when these activities are not integrated into one system. This can lead to booking confusion, communication delays, and additional administrative work. Students may also lack convenient access to personalized learning summaries and quizzes after tutoring sessions. Therefore, SOTMS aims to integrate tutoring management and AI-based learning support into one platform.
 
-## Project Structure
+## Documents
+- [Problem statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User stories](docs/user-stories.md)
+- [Sprint log](docs/sprint-log.md)
 
-```text
-SOTMS/
-├── docs/
-│   ├── user-stories.md
-│   └── sprint-log.md
-└── README.md
+## Project structure
+```
+.
+|-- README.md
+|-- LICENSE
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md      (code will go here)
 ```
 
-Note: Update this structure to match the actual repository contents.
-
 ## Roadmap
+- [x] Problem statement written
+- [x] Requirements numbered and linked to user stories
+- [x] User stories have acceptance criteria
+- [ ] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
 
-### Phase 1: Core Account and Payment Features
+## Status
+Sprint 1 completed (CSC649, Week 3)
 
-* Register student and tutor accounts.
-* Authenticate students, tutors, and administrators.
-* Process tutoring session payments.
-* Manage user accounts.
-
-### Phase 2: Tutoring and Session Management
-
-* Browse tutors and available time slots.
-* Book tutoring sessions.
-* Display session QR codes.
-* Send session reminders.
-* Support online tutoring sessions.
-* Approve qualified tutor registrations.
-
-### Phase 3: AI-Based Learning Support
-
-* Retrieve completed tutoring session data.
-* Analyze lesson content, notes, or transcripts using AI.
-* Generate personalized learning summaries.
-* Generate interactive quizzes based on lesson topics.
+## Author
+[zaynab]
