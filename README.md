@@ -3,7 +3,7 @@
 SOTMS helps students, tutors, and administrators manage online tutoring activities, including tutor selection, session booking, payments, notifications, and personalized learning support.
 
 ## Problem statement
-Students, tutors, and administrators need an efficient way to manage online tutoring activities. Coordinating tutor selection, session bookings, payments, notifications, and learning materials can be time-consuming when these activities are not integrated into one system. This can lead to booking confusion, communication delays, and additional administrative work. Students may also lack convenient access to personalized learning summaries and quizzes after tutoring sessions. Therefore, SOTMS aims to integrate tutoring management and AI-based learning support into one platform.
+Students usually have problem in catch up lesson right away in classes. Especially when students are not fast learner but lesson got to moving fast in lecture. Besides, to get in first class, extra classes is needed. Also, summarizing all the text manually takes a lot of time and sometimes isn’t very accurate. Therefore, students don’t have much time to understand a lots of information after meets. So this is the problems that aim to be solve.
 
 ## Documents
 - [Problem statement](docs/problem-statement.md)
@@ -30,7 +30,7 @@ Students, tutors, and administrators need an efficient way to manage online tuto
 - [x] Problem statement written
 - [x] Requirements numbered and linked to user stories
 - [x] User stories have acceptance criteria
-- [ ] Specialized technology chosen and explained
+- [x] Specialized technology chosen and explained
 - [ ] First prototype (later in the semester)
 
 ## Status
