@@ -9,7 +9,7 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 | Issue | Task | Status |
 |-------|------|--------|
 | #1 | | assignment 1 done |
-| #2 | | To do |
+| #2 | | submit assignment |
 | #3 | | To do |
 
 ### Daily standup notes
@@ -17,7 +17,7 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 - Standup 2: [what I did / what is next / any blocker]
 
 ### Sprint review
-I already finish the system on web-based.
+I already finish my report.
 
 ### Retrospective
 - What went well: system function well
